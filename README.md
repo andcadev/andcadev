@@ -2,7 +2,7 @@
 
 Software Architect & LabVIEW Specialist, working on test, measurement, and industrial automation systems.
 
-I work on both the architecture side and hands-on development, from object-oriented design to implementation in LabVIEW and C#.
+I work on both architecture and hands-on development, from object-oriented design through to implementation, mostly in LabVIEW.
 
 ## What's here
 
